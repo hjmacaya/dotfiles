@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hjmacaya@uc.cl
+	name = Hernan Macaya
